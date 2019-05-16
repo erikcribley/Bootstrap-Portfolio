@@ -24,6 +24,7 @@ body {
 
 .container {
     background: white;
+    margin-top: 20px;
     /* width: 960px;
     margin: auto;
     position: relative;
@@ -39,9 +40,10 @@ body {
     margin: 0; 
 }*/
 
-/* .header-font {
+h1, 
+h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-} */
+}
 
 /* nav {
     position: absolute;
