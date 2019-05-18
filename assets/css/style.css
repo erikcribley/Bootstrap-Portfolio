@@ -24,7 +24,7 @@ body {
 
 .container {
     background: white;
-    margin: 20px; 0px;
+    margin: 20px 0px;
     padding-bottom: 10px;
     /* width: 960px;
     margin: auto;
@@ -111,21 +111,21 @@ button {
     border: 4px;    
 }
 
-/* .frame {
+/*  frame {
     float: left;
     padding: 22px;
     position: relative;
 } */
 
-/* h3 {
+h3 {
     background: #4aaaa5;
     color: #fff;
-    width: 300px;
-    position: absolute;
+    /* width: 300px; */
+    /* position: absolute; */
     text-align: center;
-    bottom: 15px;
-    padding: 10px 0;
-} */
+    /* bottom: 15px;
+    padding: 10px 0; */
+}
 
 /* .push {
     height: 66px;
@@ -139,4 +139,8 @@ footer {
     padding-top: 40px;
     color: #fff;
     /* position: relative; */
+}
+
+.card {
+    margin-bottom: 20px;
 }
